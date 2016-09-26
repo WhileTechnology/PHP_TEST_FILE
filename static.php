@@ -1,5 +1,7 @@
 <?php
 
+$static = '';
+
 ?>
 <?php
 class Foo
